@@ -1,3 +1,4 @@
 ## Python Einführung
 
-# Autorin Jana Freytag (Kind of)
+### Autorin (Kind of)
+### Jana Freytag 
